@@ -23,8 +23,6 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados e pequenos ajustes manuais.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
