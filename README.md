@@ -50,7 +50,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 [TERMO 3] <br>
 [TERMO 4] <br>
 [FINALIZAÇÃO] <br> <br>
-{REGRAS} <br>
+{REGRAS} <br> <br>
 - O podcast será apresentado pela apresentadora de nome: Thaisa. Ela é analista e cientista de dados, com background acadêmico na área de Física, e experiência no mundo do Python e do Machine Learning. <br>
 - No bloco [INTRODUÇÃO] substitua por uma saudação cool da apresentadora, introduza o título e subtítulo do podcast, fale do que o podcast quer tratar de maneira geral, e introduza o tema do episódio do dia. <br>
 - Adote o estilo do podcast "Hipsters.Tech" da plataforma "Alura". <br>
