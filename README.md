@@ -1,6 +1,8 @@
 # Projeto IA Generativa
 ## Podcast "O novo Monolito - Uma Odisseia pela IA, Explorando o universo do Machine Learning sem mistérios"
 
+ > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
+
 Primeiro episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorando o universo do Machine Learning sem mistérios" feito quase totalmente por IA generativa.
 
 <p align="center">
@@ -16,8 +18,6 @@ Primeiro episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorand
      
 Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualidade do arquivo .mp4 
 </p>
-
- > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
 ## 📒 Descrição
 
