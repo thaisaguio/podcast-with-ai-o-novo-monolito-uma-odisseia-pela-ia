@@ -36,7 +36,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - ChatGPT: Título/Subtítulo e Roteiro do Podcast
 - Leonard.AI: Imagem de Capa do Podcast 
-- ElevenLabs: Áudio do Podcast (Voz: Matilda | Modelo: Eleven Turbo 2.5
+- ElevenLabs: Áudio do Podcast (Voz: Matilda | Modelo: Eleven Turbo 2.5 | Stability: 40% |  Similarity: 65%)
 - Capcut: Tratamento do áudio, efeitos, trilha, e confecção de capa com título para vídeo .mp4 do podcast
 
 | Ação | Prompt |
