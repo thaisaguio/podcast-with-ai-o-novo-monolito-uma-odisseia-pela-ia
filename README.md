@@ -1,4 +1,5 @@
-# Podcast "O novo Monolito - Uma Odisseia pela IA, Explorando o universo do Machine Learning sem mistérios"
+# Projeto IA Generativa
+## Podcast "O novo Monolito - Uma Odisseia pela IA, Explorando o universo do Machine Learning sem mistérios"
 
 Primeiro episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorando o universo do Machine Learning sem mistérios"
 
@@ -59,7 +60,7 @@ Precisei ajustar "IA" para "iá" manualmente. Do contrário, a IA generativa lia
     <img 
       align=left 
       margin=10 
-      width=80 
+      width=100 
       src="/images/thaisa-guio.png"
     />
     <p>&nbsp&nbsp&nbspThaisa Guio<br>
