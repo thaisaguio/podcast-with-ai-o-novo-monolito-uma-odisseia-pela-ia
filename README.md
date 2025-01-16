@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.mp3" controls title="Clique aqui para ouvir o Podcast"></audio>
+    <audio src="output/podcast_editado.mp4" controls title="Clique aqui para ouvir o Podcast"></audio>
 </div>
 
  > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
@@ -43,23 +43,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 | --- | --- |
 | Criar Título do Podcast: ChatGPT | Você é um roteirista de podcast. Vamos criar um podcast de tecnologia, focado em "Machine Learning". Eu gostaria de sua ajuda para criar 5 sugestões de nomes criativos para esse podcast. O podcast visa desmistificar assuntos do "Machine Learning" para iniciantes na área ou que estejam em transição de carreira para ela. <br> <br> {REGRAS} <br> <br> > O nome deve ser enxuto, com um título e um subtítulo. <br>  > O nome deve ter algum trocadilho nerd no título referente ao filme "2001: Uma Odisseia no Espaço". <br> > O nome deve conter alguma palavra forte que remete ao "Machine Learning".|
 | Criar Imagem de Capa do Podcast: Leonard.AI | An 1:1 image to be the cover art of a podcast about Artificial Intelligence. It has to: 1. have a futuristic look, 2. have a cyberpunk style, 3. be based on the movie "2001: Space Odyssey" with the movie monolith and the character HAL. The name of the podcast is: "The new monolith - an Odyssey into AI, Exploring the universe of Machine Learning without mysteries", but it should not appear on the cover art.|
-| Criar Roteiro do Podcast: ChatGPT | Você é um roteirista de podcast. Vamos criar um podcast de tecnologia, focado em "Machine Learning", cujo título é "O novo Monolito - Uma Odisseia pela IA" e subtítulo é "Explorando o universo do Machine Learning sem mistérios", com público alvo de iniciantes em "Machine Learning" ou que estejam em transição de carreira para ela. O episódio do dia possui o tema: "Desmistificando termos de Machine Learning". Nesse episódio alguns termos usados no mundo do Machine Learning serão desmistificados e explicados de forma simples. Podem ser usadas analogias com o mundo do filme "2001: Uma Odisseia no Espaço".  O formato do roteiro deve ser: <br><br> 
+| Criar Roteiro do Podcast: ChatGPT | Você é um roteirista de podcast. Vamos criar um podcast de tecnologia, focado em "Machine Learning", cujo título é "O novo Monolito - Uma Odisseia pela IA" e subtítulo é "Explorando o universo do Machine Learning sem mistérios", com público alvo de iniciantes em "Machine Learning" ou que estejam em transição de carreira para ela. O episódio do dia possui o tema: "Desmistificando termos de Machine Learning". Nesse episódio alguns termos usados no mundo do Machine Learning serão desmistificados e explicados de forma simples. Podem ser usadas analogias com o mundo do filme "2001: Uma Odisseia no Espaço".  O formato do roteiro deve ser: [INTRODUCAO] [TERMOS 1] [TERMOS 2] [TERMO 3] [TERMO 4] [FINALIZACAO] 
 
-[INTRODUCAO]
-
-[TERMOS 1]
-
-[TERMOS 2]
-
-[TERMO 3]
-
-[TERMO 4]
-
-[FINALIZACAO]
-
-<br>
-
-{REGRAS} <br>
+<br> {REGRAS} <br>
 
 - O podcast será apresentado pela apresentadora de nome: Thaisa. Ela é analista e cientista de dados, com background acadêmico na área de Física, e experiência no mundo do Python e do Machine Learning. <br>
 - No bloco [INTRODUCAO] substitua por uma saudação cool da apresentadora, introduza o título e subtítulo do podcast, fale do que o podcast quer tratar de maneira geral, e introduza o tema do episódio do dia. <br>
@@ -76,7 +62,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 🚀 Resultados
 
 <div align="center">
-    <audio src="output/podcast_editado.mp3" controls title="Clique aqui para ouvir o Podcast"></audio>
+    <audio src="output/podcast_editado.mp4" controls title="Clique aqui para ouvir o Podcast"></audio>
 </div>
 
 ## 👨‍💻 Autoria
