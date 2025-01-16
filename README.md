@@ -11,8 +11,7 @@ Primeiro episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorand
 
 <p align="center">
 
-🎙️ Ouça o Podcast:  
-[Clique Aqui](https://github.com/thaisaguio/podcast_o_novo_monolito_uma_odisseia_pela_ia/blob/main/output/podcast_o_novo_monolito_uma_odisseia_pela_ia.mp4)
+🎙️ Ouça o Podcast:  [Clique Aqui](https://github.com/thaisaguio/podcast_o_novo_monolito_uma_odisseia_pela_ia/blob/main/output/podcast_o_novo_monolito_uma_odisseia_pela_ia.mp4)
      
 Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualidade do arquivo .mp4 
 </p>
