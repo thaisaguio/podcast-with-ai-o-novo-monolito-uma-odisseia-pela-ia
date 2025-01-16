@@ -34,10 +34,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🧐 Processo de Criação
 
-- Título/Subtítulo e Roteiro do Podcast: ChatGPT
-- Imagem de Capa do Podcast: Leonard.AI
-- Áudio do Podcast: ElevenLabs
-- Capcut para tratar aúdio, adicionar efeitos e trilha, e elaborar uma capa para um vídeo .mp4
+- ChatGPT: Título/Subtítulo e Roteiro do Podcast
+- Leonard.AI: Imagem de Capa do Podcast 
+- ElevenLabs: Áudio do Podcast 
+- Capcut: Tratamento do áudio, efeitos, trilha, e confecção de capa com título para vídeo .mp4 do podcast
 
 | Ação | Prompt |
 | --- | --- |
