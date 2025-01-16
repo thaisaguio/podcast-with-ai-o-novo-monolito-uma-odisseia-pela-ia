@@ -14,7 +14,7 @@ Primeiro episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorand
 </p>
 
 <div align="center">
-    <audio src="output/podcast_o_novo_monolito_uma_odisseia_pela_ia.mp4" controls title="Clique aqui para ouvir o Podcast"></audio>
+    <video src="output/podcast_o_novo_monolito_uma_odisseia_pela_ia.mp4" controls title="Clique aqui para ouvir o Podcast"></video>
 </div>
 
  > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
@@ -53,7 +53,7 @@ Precisei ajustar "IA" para "iá" manualmente. Do contrário, a IA generativa lia
 ## 🚀 Resultados
 
 <div align="center">
-    <audio src="output/podcast_o_novo_monolito_uma_odisseia_pela_ia.mp4" controls title="Clique aqui para ouvir o Podcast"></audio>
+    <video src="output/podcast_o_novo_monolito_uma_odisseia_pela_ia.mp4" controls title="Clique aqui para ouvir o Podcast"></video>
 </div>
 
 ## 👨‍💻 Autoria
