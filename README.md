@@ -1,6 +1,6 @@
 # Podcast "O novo Monolito - Uma Odisseia pela IA, Explorando o universo do Machine Learning sem mistérios"
 
-1o. episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorando o universo do Machine Learning sem mistérios"
+Primeiro episódio do Podcast "O Novo Monolito: Uma Odisseia pela IA - Explorando o universo do Machine Learning sem mistérios"
 
 <p align="center">
 <img 
@@ -37,7 +37,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Título/Subtítulo e Roteiro do Podcast: ChatGPT
 - Imagem de Capa do Podcast: Leonard.AI
 - Áudio do Podcast: ElevenLabs
-- Capcut para tratar aúdio e adicionar efeitos e trilha
+- Capcut para tratar aúdio, adicionar efeitos e trilha, e elaborar uma capa para um vídeo .mp4
 
 | Ação | Prompt |
 | --- | --- |
