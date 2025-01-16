@@ -45,22 +45,24 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 | Criar Imagem de Capa do Podcast: Leonard.AI | An 1:1 image to be the cover art of a podcast about Artificial Intelligence. It has to: 1. have a futuristic look, 2. have a cyberpunk style, 3. be based on the movie "2001: Space Odyssey" with the movie monolith and the character HAL. The name of the podcast is: "The new monolith - an Odyssey into AI, Exploring the universe of Machine Learning without mysteries", but it should not appear on the cover art.|
 | Criar Roteiro do Podcast: ChatGPT | Você é um roteirista de podcast. Vamos criar um podcast de tecnologia, focado em "Machine Learning", cujo título é "O novo Monolito - Uma Odisseia pela IA" e subtítulo é "Explorando o universo do Machine Learning sem mistérios", com público alvo de iniciantes em "Machine Learning" ou que estejam em transição de carreira para ela. O episódio do dia possui o tema: "Desmistificando termos de Machine Learning". Nesse episódio alguns termos usados no mundo do Machine Learning serão desmistificados e explicados de forma simples. Podem ser usadas analogias com o mundo do filme "2001: Uma Odisseia no Espaço".  O formato do roteiro deve ser: <br><br> 
 
-[INTRODUÇÃO]
+[INTRODUCAO]
 
 [TERMOS 1]
 
-[TERMOS 2] 
+[TERMOS 2]
 
 [TERMO 3]
 
-[TERMO 4] 
+[TERMO 4]
 
-[FINALIZAÇÃO] <br>
+[FINALIZACAO]
+
+<br>
 
 {REGRAS} <br>
 
 - O podcast será apresentado pela apresentadora de nome: Thaisa. Ela é analista e cientista de dados, com background acadêmico na área de Física, e experiência no mundo do Python e do Machine Learning. <br>
-- No bloco [INTRODUÇÃO] substitua por uma saudação cool da apresentadora, introduza o título e subtítulo do podcast, fale do que o podcast quer tratar de maneira geral, e introduza o tema do episódio do dia. <br>
+- No bloco [INTRODUCAO] substitua por uma saudação cool da apresentadora, introduza o título e subtítulo do podcast, fale do que o podcast quer tratar de maneira geral, e introduza o tema do episódio do dia. <br>
 - Adote o estilo do podcast "Hipsters.Tech" da plataforma "Alura". <br>
 - Os [TERMOS 1] a serem desmistificados são: "parâmetros" e "hiperparâmetros". <br>
 - Os [TERMOS 2] a serem desmistificados são: "overfitting ou sobreajuste" e "underfitting ou subajuste". <br>
