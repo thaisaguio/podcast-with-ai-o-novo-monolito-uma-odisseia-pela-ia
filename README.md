@@ -26,14 +26,14 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonard.AI](https://leonardo.ai/)
+- [Leonardo.AI](https://leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## 🧐 Processo de Criação
 
 - ChatGPT: Título/Subtítulo e Roteiro do Podcast
-- Leonard.AI: Imagem de Capa do Podcast 
+- Leonardo.AI: Imagem de Capa do Podcast 
 - ElevenLabs: Áudio do Podcast (Voz: Matilda | Modelo: Eleven Turbo 2.5 | Stability: 40% |  Similarity: 65%)
 - Capcut: Tratamento do áudio, efeitos, trilha, e confecção de capa com título para vídeo .mp4 do podcast
 
